@@ -1,0 +1,10 @@
+^C:\USERS\ZETA\SOURCE\REPOS\LABA2\LABA2\PRJ.TIMER_MANAGER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Zeta/source/repos/laba2 -BC:/Users/Zeta/source/repos/laba2/build --check-stamp-file C:/Users/Zeta/source/repos/laba2/build/laba2/prj.timer_manager/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,8 @@
+add_executable(binary_search_test binary_search_test.cpp)
+target_link_libraries(binary_search_test PRIVATE prj.binary_search)
+
+add_executable(josephus_test josephus_test.cpp)
+target_link_libraries(josephus_test PRIVATE prj.Josephus)
+
+add_executable(timer_manager_test timer_manager_test.cpp)
+target_link_libraries(timer_manager_test PRIVATE prj.timer_manager)
