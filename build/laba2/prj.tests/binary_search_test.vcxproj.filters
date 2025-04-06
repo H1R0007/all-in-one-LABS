@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Zeta\source\repos\laba2\laba2\prj.tests\binary_search_test.cpp">
+    <ClCompile Include="C:\Users\Zeta\source\repos\all-in-one-LABS\laba2\prj.tests\binary_search_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Zeta\source\repos\laba2\laba2\prj.tests\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Zeta\source\repos\all-in-one-LABS\laba2\prj.tests\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{8C55E9E0-D169-3F0D-813C-A7366BDD33EA}</UniqueIdentifier>
+      <UniqueIdentifier>{AD03E2E1-2616-3702-A6AB-457B07BE6705}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

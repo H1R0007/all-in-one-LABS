@@ -1,6 +1,6 @@
-^C:\USERS\ZETA\SOURCE\REPOS\LABA2\BUILD\CMAKEFILES\539110199542EB073B3EE55D287C77CF\GENERATE.STAMP.RULE
+^C:\USERS\ZETA\SOURCE\REPOS\ALL-IN-ONE-LABS\BUILD\CMAKEFILES\165B38A739FFA0686F39F286CE287596\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Zeta/source/repos/laba2 -BC:/Users/Zeta/source/repos/laba2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Zeta/source/repos/laba2/build/laba2.sln
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Zeta/source/repos/all-in-one-LABS -BC:/Users/Zeta/source/repos/all-in-one-LABS/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Zeta/source/repos/all-in-one-LABS/build/all_in_one_labs.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

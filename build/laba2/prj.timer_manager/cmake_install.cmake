@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Zeta/source/repos/laba2/laba2/prj.timer_manager
+# Install script for directory: C:/Users/Zeta/source/repos/all-in-one-LABS/laba2/prj.timer_manager
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/laba2")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/all_in_one_labs")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

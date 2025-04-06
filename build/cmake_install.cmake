@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Zeta/source/repos/laba2
+# Install script for directory: C:/Users/Zeta/source/repos/all-in-one-LABS
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/laba2")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/all_in_one_labs")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,22 +34,27 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Zeta/source/repos/laba2/build/laba2/prj.binary_search/cmake_install.cmake")
+  include("C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.binary_search/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Zeta/source/repos/laba2/build/laba2/prj.Josephus/cmake_install.cmake")
+  include("C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.Josephus/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Zeta/source/repos/laba2/build/laba2/prj.timer_manager/cmake_install.cmake")
+  include("C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.timer_manager/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Zeta/source/repos/laba2/build/laba2/prj.tests/cmake_install.cmake")
+  include("C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.tests/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba3/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -67,6 +72,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/Zeta/source/repos/laba2/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/Zeta/source/repos/all-in-one-LABS/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

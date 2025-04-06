@@ -1,8 +1,8 @@
-C:/Users/Zeta/source/repos/laba2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Zeta/source/repos/laba2/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Zeta/source/repos/laba2/build/laba2/prj.binary_search/CMakeFiles/prj.binary_search.dir
-C:/Users/Zeta/source/repos/laba2/build/laba2/prj.Josephus/CMakeFiles/prj.Josephus.dir
-C:/Users/Zeta/source/repos/laba2/build/laba2/prj.timer_manager/CMakeFiles/prj.timer_manager.dir
-C:/Users/Zeta/source/repos/laba2/build/laba2/prj.tests/CMakeFiles/binary_search_test.dir
-C:/Users/Zeta/source/repos/laba2/build/laba2/prj.tests/CMakeFiles/josephus_test.dir
-C:/Users/Zeta/source/repos/laba2/build/laba2/prj.tests/CMakeFiles/timer_manager_test.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.binary_search/CMakeFiles/prj.binary_search.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.Josephus/CMakeFiles/prj.Josephus.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.timer_manager/CMakeFiles/prj.timer_manager.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.tests/CMakeFiles/binary_search_test.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.tests/CMakeFiles/josephus_test.dir
+C:/Users/Zeta/source/repos/all-in-one-LABS/build/laba2/prj.tests/CMakeFiles/timer_manager_test.dir

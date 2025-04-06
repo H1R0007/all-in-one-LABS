@@ -2,19 +2,19 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Zeta\source\repos\laba2\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\Zeta\source\repos\all-in-one-LABS\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Zeta\source\repos\laba2\bin.dbg\binary_search_test.exe</FullPath>
+      <FullPath>C:\Users\Zeta\source\repos\all-in-one-LABS\bin.dbg\binary_search_test.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Zeta\source\repos\laba2\bin.dbg\josephus_test.exe</FullPath>
+      <FullPath>C:\Users\Zeta\source\repos\all-in-one-LABS\bin.dbg\josephus_test.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Zeta\source\repos\laba2\bin.dbg\timer_manager_test.exe</FullPath>
+      <FullPath>C:\Users\Zeta\source\repos\all-in-one-LABS\bin.dbg\timer_manager_test.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Zeta\source\repos\laba2\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\Users\Zeta\source\repos\all-in-one-LABS\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

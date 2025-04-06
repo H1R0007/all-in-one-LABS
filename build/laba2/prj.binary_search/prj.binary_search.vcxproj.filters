@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Zeta\source\repos\laba2\laba2\prj.binary_search\binary_search.cpp">
+    <ClCompile Include="C:\Users\Zeta\source\repos\all-in-one-LABS\laba2\prj.binary_search\binary_search.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Zeta\source\repos\laba2\laba2\prj.binary_search\binary_search.hpp">
+    <ClInclude Include="C:\Users\Zeta\source\repos\all-in-one-LABS\laba2\prj.binary_search\binary_search.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Zeta\source\repos\laba2\laba2\prj.binary_search\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Zeta\source\repos\all-in-one-LABS\laba2\prj.binary_search\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{CC2EDFF7-84E7-3392-8141-B4D2DB53C2C6}</UniqueIdentifier>
+      <UniqueIdentifier>{38C6B87E-F25D-313A-AF76-0AABA91F6DDD}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{8C55E9E0-D169-3F0D-813C-A7366BDD33EA}</UniqueIdentifier>
+      <UniqueIdentifier>{AD03E2E1-2616-3702-A6AB-457B07BE6705}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
