@@ -1,0 +1,1 @@
+add_executable(zd2_4 zd2_4.cpp)
